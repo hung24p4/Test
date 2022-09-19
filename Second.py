@@ -1,2 +1,2 @@
 import numpy as np
-print('you gay')
+print('no, you gay')
